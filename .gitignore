@@ -22,3 +22,6 @@ Thumbs.db
 *.log
 *.data
 *.sqlite3
+
+# 环境变量文件（包含敏感信息，必须忽略）
+.env
